@@ -4,3 +4,4 @@ git checkout -b dev.
 ce shi bug xiu fu.
 xiu gai bug hou ti jiao.
 na ju hua qu na le.
+git push origin master.
