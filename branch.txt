@@ -1,3 +1,4 @@
 zhe shi zai ce shi git fen zhi.
 Creating a new branch is so quick and simple.
 git checkout -b dev.
+ce shi bug xiu fu.
